@@ -76,3 +76,19 @@ Dentro de GenSMBios:
 Seleccionamos opcion 2 y arrastamos el config.plist de la carpeta EFI del disco interno
 Seleccionamos opcion 3 asi le inyecta al config.plist el GenSMBios nuevo
 ```
+
+_Lo que funciona_
+* Trackpad full
+* HDMI
+* USB-C | DP DisplayPort
+* Puertos USB
+* Wifi
+* Conexion LAN
+* Bluetooth
+* Resolucion 4K
+
+_Lo que no he probado_
+* jack audio 3.5
+* SDXC reader
+
+_Reportar si hay algo que no anda tratare de repararlo_
