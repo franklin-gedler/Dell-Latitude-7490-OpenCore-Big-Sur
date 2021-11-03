@@ -92,3 +92,13 @@ _Lo que no he probado_
 * SDXC reader
 
 _Reportar si hay algo que no anda tratare de repararlo_
+
+_Mi Hardware_
+* 8th Generation Intel Core up to i7 processors
+* DDR4 2400 SDRAM operates at 2400 with Intel 8th Gen
+* Intel UHD Graphics 620 (8th Gen Intel Core)
+* 256 GB M.2 2280 SATA SSD
+* Intel Dual-Band Wireless-AC 8265 2x2 + BT 4.2 (vPro)
+* HDMI 1.4(1)
+* DisplayPort over USB Type-C(optional Thunderbolt 3(1)
+* 3x USB 3.1 Gen1 (one with PowerShare)
