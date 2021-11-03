@@ -62,7 +62,7 @@ VT-d = Disable
 ```
 * Despues de ejecutar los comandos APAGAMOS la maquina
 
-* Ejecutamos de nuevo el USB-BOOT e instalamos normalmente
+* Ejecutamos de nuevo el USB-BOOT e instalamos normalmente [En caso de que no inicie, ejecuta el USB-BOOT y en el menu seleciona CleanNvram o ResetNvram]
 
 * Una vez iniciado el escritorio de Big Sur descargamos la herramienta https://github.com/corpnewt/MountEFI para montar la particion EFI del Disco Interno y del USB-BOOT
 
