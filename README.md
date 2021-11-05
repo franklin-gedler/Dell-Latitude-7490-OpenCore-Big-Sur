@@ -27,7 +27,7 @@ _Descargamos la carpeta EFI preconfigurada_
 * Montamos la Particion EFI del USB-BOOT y pegamos la carpeta EFI descargada
 
 
-_Ejecutamos el pendrive y en el arranque seleccionamos modGRUBShell.efi_
+_Ejecutamos el pendrive y en el arranque seleccionamos modGRUBShell.efi (Mucho cuidado con estos comandos)_
 
 ```
 CFG Lock = Disable
