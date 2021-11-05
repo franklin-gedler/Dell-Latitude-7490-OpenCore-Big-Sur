@@ -1,4 +1,4 @@
-# Dell Latitude 7490 - MacOS Big Sur
+# Dell-Latitude-7490-OpenCore-Big-Sur
 
 _Herramientas:_
 
