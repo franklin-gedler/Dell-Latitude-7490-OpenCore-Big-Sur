@@ -10,6 +10,7 @@ _Herramientas:_
 _Config Bios:_
 ```
 Boot mode: UEFI
+Fast Boot: Minimal
 SecureBoot = Disable
 SATA Mode: AHCI 
 Intel SGX: Software Controlled
