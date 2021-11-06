@@ -23,7 +23,7 @@ sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstall
 
 _Descargamos la carpeta EFI preconfigurada_
 
-* [EFI.zip](https://www.mediafire.com/file/3dvhbabolghvs2e/EFI.zip/file)
+* [EFI.zip](https://www.mediafire.com/file/7wianecdce1bfjg/EFI.zip/file)
 * Montamos la Particion EFI del USB-BOOT y pegamos la carpeta EFI descargada
 
 
